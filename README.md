@@ -3,7 +3,7 @@
 
 - 💻 I'm a Full Stack Developer with 5+ years of experience.
 - 🚀 I work with React, Node.js, NestJS, Next.js, SQL/NoSQL, GCP, Kubernetes, Redis, Golang, Firebase, and Flutter.
-- 📫 Contact me via LinkedIn: [linkedin.com/in/seuusuario](https://www.linkedin.com/in/seuusuario)
+- 📫 Contact me via LinkedIn: [linkedin.com/in/ruannunes123](https://www.linkedin.com/in/ruannunes123)
 
 ---
 
